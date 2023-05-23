@@ -1,12 +1,11 @@
-body
-{
-    background-color: rgb(209, 209, 209);
+main {
+    background-color: rgb(245, 168, 2);
 }
-
 header
 {
     display: flex;
     align-items: center;
+    background-color: rgb(32, 32, 251);
 }
 
 header img
@@ -39,6 +38,9 @@ main img
 section
 {
     margin-left: 5%;
+}
+
+section div{
 }
 
 section article
