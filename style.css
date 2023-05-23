@@ -27,12 +27,26 @@ header nav a
     padding: 1rem;
 } */
 
-nav{
-    margin-left: 75%;
-    margin-right: 25%;
+header{
+    background-color: rgb(68, 77, 251);
+    display: flex;
+    align-items: center;
+}
+
+header h1{
+    margin-left: 1%;
+}
+
+nav {
+    margin-left: 63%;
     display: flex;
 }
 
 nav h3{
-    margin-left: 10px;
+    margin-left: 20px;
+    /* display: flex; */
+}
+
+main{
+    margin-top: 10px;
 }
