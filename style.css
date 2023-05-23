@@ -71,22 +71,15 @@ section p.name
 footer
 {
     background-color: darkgrey;
-    /* padding: 1em; */
-    /* z-index: 1; */
-    /* position: absolute;
-    top: -px; */
     position: fixed;
     bottom: 0;
     left: 0;
     height: 6%;
     width: 100%;
     font-size: x-large;
-    /* z-index: 1; */
 }
 
 footer a
 {
     margin-left: 10%;
-
-    /* padding: 50em; */
 }
