@@ -1,61 +1,74 @@
-body{
-        background-color: rgb(209, 209, 209);
+body
+{
+    background-color: rgb(209, 209, 209);
 }
 
-header{
-    /* background-color: rgb(194, 191, 191); */
+header
+{
     display: flex;
     align-items: center;
 }
 
-header h1{
+header h1
+{
     margin-left: 5%;
 }
 
-nav {
+nav
+{
     margin-left: 45%;
     display: flex;
 }
 
-nav h3{
+nav h3
+{
     margin-left: 40px;
-    /* display: flex; */
 }
 
-image{
+image
+{
     margin-top: 10px;
 }
 
-main{
-    /* background-color: rgb(194, 191, 191); */
-}
-
-section{
-    
-    /* background-color: rgb(216, 231, 189); */
+section
+{
     margin-left: 5%;
 }
 
-/* section div{
-    margin-left: 5%;
-} */
-section article{
+section article
+{
     display: flex;
 }
-section img{
+
+section img
+{
     margin-left: 15%;
     width: 50%;
     height: 50%;
 }
 
-section h2{
+section h2
+{
     color: grey;
 }
 
-section article h2{
+section article h2
+{
     color: rgb(255, 0, 0);
 }
 
-section p.name{
+section p.name
+{
     color: grey
+}
+
+footer
+{
+    background-color: darkgrey;
+/* padding: 1em; */
+    /* z-index: 1; */
+}
+
+footer a{
+margin-left: 13%;
 }
