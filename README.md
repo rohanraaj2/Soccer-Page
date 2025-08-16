@@ -48,4 +48,4 @@ This project uses [Firebase Hosting](https://firebase.google.com/docs/hosting) f
 
 ## Live Demo
 
-View the live site here: [https://soccer-page-eaa38.web.app/](https://soccer-page-eaa38.web.app/)
+View the live site here: [https://rohanraaj2.github.io/Soccer-Page/](https://rohanraaj2.github.io/Soccer-Page/)
